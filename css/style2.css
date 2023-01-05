@@ -1,0 +1,23 @@
+.intro {
+    color: darkblue;
+}
+
+.info{
+    color: turquoise;
+    width: 50%;
+}
+
+.end {
+    color: azure;
+    width: 500px;
+}
+
+h1{
+    color: rebeccapurple;
+    size: 400px;
+}
+
+h2{
+    color: saddlebrown;
+    size: 400px;
+}
